@@ -1,5 +1,7 @@
 Classification of wine quality using a two different parzen_window models:
-hard_parzen (harsh neighborhood) and a soft_parzen with gaussian kernel.
+hard_parzen and a soft_parzen with gaussian kernel.
+
+This was done as a homework in my IFT3395 class.
 
 Philippe Schoeb
 
