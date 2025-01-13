@@ -1,7 +1,7 @@
 # Classification of wine quality 
 I use two different parzen_window models: hard_parzen and a soft_parzen with gaussian kernel.
 
-This was done as a homework in my Machine Learning course (IFT3395).
+This was done as a homework in my Machine Learning course (IFT3395). I wrote a report (in french) about my work [here](https://www.overleaf.com/read/mdhqnxxrmpwx#b7cae7).
 
 Philippe Schoeb
 
